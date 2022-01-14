@@ -1,8 +1,3 @@
-
-<img src="https://github.com/marcospatton/Vue.js-parte-1-construindo-Single-Page-Applications/blob/main/src/assets/logo.png"></a>
-<br><br>
-
-
 # projeto
 
 ## Project setup
@@ -27,5 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
